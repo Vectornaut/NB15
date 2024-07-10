@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="0.39912652"
-     inkscape:cx="498.58877"
-     inkscape:cy="507.35792"
+     inkscape:zoom="0.77418209"
+     inkscape:cx="527.65364"
+     inkscape:cy="605.15479"
      inkscape:window-width="1733"
      inkscape:window-height="1131"
      inkscape:window-x="0"
@@ -1178,7 +1178,47 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';fill:#000000;stroke-width:0.699997"
          x="185.09105"
          y="105.02279"
-         id="tspan46">2024</tspan></text></g><g
+         id="tspan46">2024</tspan></text><g
+       id="Objects"
+       transform="matrix(0.0566992,0,0,0.0566992,173.80169,86.089755)"
+       inkscape:label="Logo"
+       style="display:inline;stroke-width:4.66644">
+	<g
+   id="LWPOLYLINE_3_"
+   style="stroke-width:4.66644">
+		<path
+   d="m 47.392,252.537 h 410.311 c 0,113.298 -91.868,205.165 -205.165,205.165 -113.297,0 -205.146,-91.867 -205.146,-205.165 z"
+   id="path1"
+   style="stroke-width:4.66644" />
+	</g>
+	
+	<g
+   id="LWPOLYLINE_1_"
+   style="stroke-width:4.66644">
+		<path
+   fill="#ed1c24"
+   d="m 112.682,252.537 c -0.545,6.572 3.074,15.635 7.992,19.99 l 16.248,16.23 -25.084,43.773 52.029,-28.21 -27.647,51.046 51.027,-27.684 -27.666,51.044 51.134,-27.681 -4.042,7.481 24.118,24.1 c 10.663,10.679 27.964,10.679 38.608,0 l 35.868,-35.835 -5.339,-5.375 c -10.61,-10.574 -10.61,-27.787 0,-38.361 10.573,-10.609 27.788,-10.609 38.361,0 l 5.375,5.341 35.834,-35.87 c 4.954,-4.355 8.573,-13.418 8.01,-19.99 H 112.682 Z"
+   id="path3"
+   style="fill:#ff0000;stroke-width:4.66644" />
+	</g>
+	<g
+   id="LWPOLYLINE_2_"
+   style="stroke-width:4.66644">
+		<path
+   fill="#ed1c24"
+   d="M 47.392,252.537 H 457.703 C 457.703,139.24 365.835,47.374 252.538,47.374 139.241,47.374 47.392,139.24 47.392,252.537 Z"
+   id="path4"
+   style="fill:#ff0000;stroke-width:4.66644" />
+	</g>
+	<g
+   id="LWPOLYLINE"
+   style="stroke-width:4.66644">
+		<path
+   d="m 205.076,149.534 25.699,-25.715 -25.734,25.715 c -19.076,-13.28 -45.319,-8.606 -58.634,10.468 -10.083,13.388 -10.083,34.78 0,48.167 l -25.732,25.751 c -4.567,4.038 -8.203,12.506 -7.992,18.617 H 387.51 c 0.211,-6.111 -3.443,-14.579 -8.01,-18.617 l -31.231,-31.268 5.095,-5.128 53.223,-8.995 -91.797,-91.796 -9.028,53.223 -5.093,5.127 -31.269,-31.264 c -10.645,-10.682 -27.946,-10.682 -38.626,0"
+   id="path5"
+   style="stroke-width:4.66644" />
+	</g>
+</g></g><g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Robot"><g
@@ -1688,20 +1728,6 @@
      id="layer11"
      inkscape:label="Text"><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8167px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.699997;stroke-linecap:round;stroke-linejoin:round"
-       x="171.81207"
-       y="99.392853"
-       id="text5-7-9"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8167px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.699997"
-         x="171.81207"
-         y="99.392853"
-         id="tspan1"> 2024 <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4056px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-   id="tspan51">·</tspan> Aug 3 <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4056px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-   id="tspan4">·</tspan> 7pm</tspan></text><text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.699996;stroke-linecap:round;stroke-linejoin:round"
        x="200.46922"
        y="123.75372"
@@ -1780,54 +1806,33 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';fill:#000000;stroke-width:0.699998"
            x="95.648186"
            y="82.259117"
-           id="tspan34">hacking in the Mission</tspan></text></g><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8167px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.699997;stroke-linecap:round;stroke-linejoin:round"
-       x="171.64273"
-       y="109.99309"
-       id="text3"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8167px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.699997"
+           id="tspan34">hacking in the Mission</tspan></text></g><g
+       id="g1"><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8167px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.699997;stroke-linecap:round;stroke-linejoin:round"
+         x="171.81207"
+         y="99.392853"
+         id="text5-7-9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8167px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.699997"
+           x="171.81207"
+           y="99.392853"
+           id="tspan1"> 2024 <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4056px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+   id="tspan51">·</tspan> Aug 3 <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4056px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+   id="tspan4">·</tspan> 7pm</tspan></text><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8167px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.699997;stroke-linecap:round;stroke-linejoin:round"
          x="171.64273"
          y="109.99309"
-         id="tspan3">272 Capp Street</tspan></text><g
-       id="Objects"
-       transform="matrix(0.0566992,0,0,0.0566992,173.80169,86.089754)"
-       inkscape:label="Logo"
-       style="display:inline;stroke-width:4.66644">
-	<g
-   id="LWPOLYLINE_3_"
-   style="stroke-width:4.66644">
-		<path
-   d="m 47.392,252.537 h 410.311 c 0,113.298 -91.868,205.165 -205.165,205.165 -113.297,0 -205.146,-91.867 -205.146,-205.165 z"
-   id="path1"
-   style="stroke-width:4.66644" />
-	</g>
-	
-	<g
-   id="LWPOLYLINE_1_"
-   style="stroke-width:4.66644">
-		<path
-   fill="#ed1c24"
-   d="m 112.682,252.537 c -0.545,6.572 3.074,15.635 7.992,19.99 l 16.248,16.23 -25.084,43.773 52.029,-28.21 -27.647,51.046 51.027,-27.684 -27.666,51.044 51.134,-27.681 -4.042,7.481 24.118,24.1 c 10.663,10.679 27.964,10.679 38.608,0 l 35.868,-35.835 -5.339,-5.375 c -10.61,-10.574 -10.61,-27.787 0,-38.361 10.573,-10.609 27.788,-10.609 38.361,0 l 5.375,5.341 35.834,-35.87 c 4.954,-4.355 8.573,-13.418 8.01,-19.99 H 112.682 Z"
-   id="path3"
-   style="fill:#ff0000;stroke-width:4.66644" />
-	</g>
-	<g
-   id="LWPOLYLINE_2_"
-   style="stroke-width:4.66644">
-		<path
-   fill="#ed1c24"
-   d="M 47.392,252.537 H 457.703 C 457.703,139.24 365.835,47.374 252.538,47.374 139.241,47.374 47.392,139.24 47.392,252.537 Z"
-   id="path4"
-   style="fill:#ff0000;stroke-width:4.66644" />
-	</g>
-	<g
-   id="LWPOLYLINE"
-   style="stroke-width:4.66644">
-		<path
-   d="m 205.076,149.534 25.699,-25.715 -25.734,25.715 c -19.076,-13.28 -45.319,-8.606 -58.634,10.468 -10.083,13.388 -10.083,34.78 0,48.167 l -25.732,25.751 c -4.567,4.038 -8.203,12.506 -7.992,18.617 H 387.51 c 0.211,-6.111 -3.443,-14.579 -8.01,-18.617 l -31.231,-31.268 5.095,-5.128 53.223,-8.995 -91.797,-91.796 -9.028,53.223 -5.093,5.127 -31.269,-31.264 c -10.645,-10.682 -27.946,-10.682 -38.626,0"
-   id="path5"
-   style="stroke-width:4.66644" />
-	</g>
-</g></g></svg>
+         id="text3"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8167px;font-family:'Blanch Caps';-inkscape-font-specification:'Blanch Caps';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.699997"
+           x="171.64273"
+           y="109.99309"
+           id="tspan3">272 Capp Street</tspan></text></g><path
+       id="path143"
+       fill="#eb2026"
+       d="m 198.72564,105.99561 v -9.498181 l -0.86444,0.613437 -2.35687,1.672901 h -0.52794 v -3.234481 c 2e-4,-0.550082 -0.22614,-1.052511 -0.58678,-1.412308 -0.35968,-0.360639 -0.86202,-0.58687 -1.41218,-0.586661 h -2.6609 c -0.11386,-0.632517 -0.4179,-1.200834 -0.85307,-1.635794 -0.55702,-0.557883 -1.33229,-0.904502 -2.18313,-0.904186 -0.85095,-3.16e-4 -1.62631,0.346409 -2.18324,0.904395 -0.43539,0.434751 -0.7392,1.003068 -0.85285,1.635585 h -2.6612 c -0.55008,-1.04e-4 -1.0524,0.226022 -1.4122,0.586661 -0.36065,0.359797 -0.58678,0.862226 -0.58667,1.412308 v 1.680282 l -3.56223,0.966595 4.15227,1.233303 -4.07226,1.209564 4.07226,1.20927 -4.07226,1.20949 4.079,1.21158 -0.59678,0.17858 v 2.49581 c -1.1e-4,0.55029 0.22612,1.05261 0.58667,1.41241 0.3599,0.36055 0.86223,0.58677 1.4123,0.58656 h 3.70487 v -0.54756 c 10e-5,-0.55176 0.22191,-1.04649 0.58328,-1.40904 0.36233,-0.36148 0.85695,-0.58327 1.40893,-0.58327 0.55177,3.8e-4 1.04651,0.2221 1.40861,0.58327 0.36149,0.36255 0.5833,0.85728 0.58362,1.40904 v 0.54756 h 3.70477 c 0.55037,2.1e-4 1.0526,-0.22613 1.41229,-0.58656 0.36063,-0.36011 0.58678,-0.86245 0.58678,-1.41241 v -3.23512 h 0.52771 z m -2.49962,-3.11716 v -3.263974 l 1.40431,-0.99674 v 5.257454 z m -1.09509,-0.2646 h -2.2271 v -2.734777 h 2.2271 z m -1.24985,4.32991 c -2.2e-4,0.24836 -0.10062,0.47186 -0.26598,0.6381 -0.16603,0.16551 -0.38963,0.26565 -0.63788,0.26577 h -2.66091 c -0.11364,-0.63273 -0.41768,-1.20115 -0.85295,-1.6358 -0.55736,-0.55767 -1.33261,-0.9045 -2.18325,-0.90408 -0.85093,-3.9e-4 -1.62618,0.3463 -2.18333,0.90408 -0.43518,0.43465 -0.7392,1.00307 -0.85286,1.6358 h -2.66088 c -0.24817,-2.2e-4 -0.47154,-0.10042 -0.6378,-0.26577 -0.1655,-0.16624 -0.26576,-0.38994 -0.26597,-0.6381 v -1.68038 l 3.33464,-0.99823 -4.06541,-1.20736 4.07215,-1.20949 -4.07215,-1.20927 4.07215,-1.209564 -3.99213,-1.185765 0.65075,-0.176474 v -2.517941 c 2.1e-4,-0.248159 0.10052,-0.471542 0.26597,-0.63779 0.16626,-0.165509 0.38973,-0.265869 0.6378,-0.265973 h 3.70497 v -0.547551 c 10e-5,-0.551977 0.22191,-1.0465 0.58328,-1.408827 0.36233,-0.36138 0.85695,-0.583181 1.40882,-0.583499 0.55188,1.06e-4 1.04631,0.222119 1.40853,0.583499 0.36168,0.362433 0.58349,0.857061 0.58349,1.408827 v 0.547551 h 3.70498 c 0.24816,1.04e-4 0.47164,0.100468 0.63788,0.265973 0.16552,0.166353 0.26587,0.389631 0.26587,0.63779 v 3.234696 h -2.07255 v 4.925078 h 2.07255 v 3.2348 h 2.2e-4 z"
+       style="fill:#ff0000;stroke-width:0.264583" /></g></svg>
